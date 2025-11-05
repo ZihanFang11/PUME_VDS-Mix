@@ -1,0 +1,15 @@
+openness:0.1,unseen_num:2,dataset:esp_game
+CCR@FPR of 0.5% = 24.99, CCR@FPR of 1.0% = 31.53, CCR@FPR of 5.0% = 52.68, CCR@FPR of 10.0% = 63.38, CCR@FPR of 50.0% = 85.31, CCR@FPR of 100% = 89.22
+
+openness:0.1,unseen_num:3,dataset:Hdigit
+CCR@FPR of 0.5% = 96.0, CCR@FPR of 1.0% = 97.05, CCR@FPR of 5.0% = 98.89, CCR@FPR of 10.0% = 99.36, CCR@FPR of 50.0% = 99.88, CCR@FPR of 100% = 99.95
+
+openness:0.1,unseen_num:21,dataset:MITIndoor
+CCR@FPR of 0.5% = 7.99, CCR@FPR of 1.0% = 9.92, CCR@FPR of 5.0% = 20.48, CCR@FPR of 10.0% = 30.53, CCR@FPR of 50.0% = 53.69, CCR@FPR of 100% = 63.61
+
+openness:0.1,unseen_num:3,dataset:NoisyMNIST_15000
+CCR@FPR of 0.5% = 42.87, CCR@FPR of 1.0% = 47.07, CCR@FPR of 5.0% = 64.27, CCR@FPR of 10.0% = 71.29, CCR@FPR of 50.0% = 87.8, CCR@FPR of 100% = 92.97
+
+openness:0.1,unseen_num:5,dataset:scene15
+CCR@FPR of 0.5% = 27.54, CCR@FPR of 1.0% = 33.45, CCR@FPR of 5.0% = 47.91, CCR@FPR of 10.0% = 55.29, CCR@FPR of 50.0% = 73.37, CCR@FPR of 100% = 78.42
+
