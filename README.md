@@ -1,5 +1,5 @@
 
-# Proximal Unfolded Multi-View Learning with Calibrated Open-Set Uncertainty
+# Reliable Open-Set Multi-View Learning via View-Adaptive Uncertainty Calibration
 
 ### Datasets Preparation
 - For all datasets, please obtain them from the following links: <https://drive.google.com/drive/folders/1Jh4IHkpoLcFe6slS_-jXZ7uFqYIaNJ-1>;
